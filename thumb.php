@@ -1,12 +1,12 @@
 
 <?php
-$ffmpeg = 'C:\xampp\ffmpeg.exe';  
+$ffmpeg = 'C:\xampp\ffmpeg.exe';  // path of ffmpeg.exe file
 
 //video dir  
-$video  = 'Tukur.mp4';   
+$video  = '1472535576147.mp4';   
 echo $video ;
 //where to save the image  
-$image = 'Tukur.jpg';  
+$image = '1472535576147.jpg';  
 
 //time to take screenshot at  
 $interval = 1;  
